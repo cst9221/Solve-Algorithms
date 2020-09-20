@@ -18,5 +18,4 @@ def solution(s):
     if s.count('P') == s.count('Y'):
         answer = True
     return answer
-
 # ...
